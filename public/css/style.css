@@ -1,1 +1,22 @@
-body { background-color: lightblue; }
+body { background-color: rgb(236, 207, 207); }
+.flex{
+display: flex;
+justify-content: space-around;
+}
+#contener {
+    border: 5px solid rgb(236, 95, 206);
+}
+#elemento1 {
+    width: 50px;
+
+}
+.button {
+    background-color: #7bc0ee; /* Green */
+    border: none;
+    color: rgb(152, 24, 168);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
